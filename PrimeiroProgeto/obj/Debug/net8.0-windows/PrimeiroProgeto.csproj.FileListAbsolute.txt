@@ -1,0 +1,16 @@
+C:\Users\D14$\source\repos\PrimeiroProgeto\PrimeiroProgeto\obj\Debug\net8.0-windows\PrimeiroProgeto.Form1.resources
+C:\Users\D14$\source\repos\PrimeiroProgeto\PrimeiroProgeto\obj\Debug\net8.0-windows\PrimeiroProgeto.csproj.GenerateResource.cache
+C:\Users\D14$\source\repos\PrimeiroProgeto\PrimeiroProgeto\obj\Debug\net8.0-windows\PrimeiroProgeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D14$\source\repos\PrimeiroProgeto\PrimeiroProgeto\obj\Debug\net8.0-windows\PrimeiroProgeto.AssemblyInfoInputs.cache
+C:\Users\D14$\source\repos\PrimeiroProgeto\PrimeiroProgeto\obj\Debug\net8.0-windows\PrimeiroProgeto.AssemblyInfo.cs
+C:\Users\D14$\source\repos\PrimeiroProgeto\PrimeiroProgeto\obj\Debug\net8.0-windows\PrimeiroProgeto.csproj.CoreCompileInputs.cache
+C:\Users\D14$\source\repos\PrimeiroProgeto\PrimeiroProgeto\bin\Debug\net8.0-windows\PrimeiroProgeto.exe
+C:\Users\D14$\source\repos\PrimeiroProgeto\PrimeiroProgeto\bin\Debug\net8.0-windows\PrimeiroProgeto.deps.json
+C:\Users\D14$\source\repos\PrimeiroProgeto\PrimeiroProgeto\bin\Debug\net8.0-windows\PrimeiroProgeto.runtimeconfig.json
+C:\Users\D14$\source\repos\PrimeiroProgeto\PrimeiroProgeto\bin\Debug\net8.0-windows\PrimeiroProgeto.dll
+C:\Users\D14$\source\repos\PrimeiroProgeto\PrimeiroProgeto\bin\Debug\net8.0-windows\PrimeiroProgeto.pdb
+C:\Users\D14$\source\repos\PrimeiroProgeto\PrimeiroProgeto\obj\Debug\net8.0-windows\PrimeiroProgeto.dll
+C:\Users\D14$\source\repos\PrimeiroProgeto\PrimeiroProgeto\obj\Debug\net8.0-windows\refint\PrimeiroProgeto.dll
+C:\Users\D14$\source\repos\PrimeiroProgeto\PrimeiroProgeto\obj\Debug\net8.0-windows\PrimeiroProgeto.pdb
+C:\Users\D14$\source\repos\PrimeiroProgeto\PrimeiroProgeto\obj\Debug\net8.0-windows\PrimeiroProgeto.genruntimeconfig.cache
+C:\Users\D14$\source\repos\PrimeiroProgeto\PrimeiroProgeto\obj\Debug\net8.0-windows\ref\PrimeiroProgeto.dll
